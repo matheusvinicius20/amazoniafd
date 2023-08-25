@@ -1,10 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-	background-image: url(logo2.png); /* Imagem de fundo da div superior */
-    background-size: cover; /* Garante que a imagem de fundo cubra toda a div */
+	background-image: url(logo2.png); 
+    background-size: cover; 
 	width: 100%;
     height: 100%;
+	background-repeat: no-repeat;
+
 }
 
 .superior {

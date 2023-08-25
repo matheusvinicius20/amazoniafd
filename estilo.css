@@ -9,7 +9,7 @@
 .logo {
     background-image: url(logo.png);
     border: solid rgb(247, 1, 255) 1px;
-    width: 10%%;
+    width: 15%;
     height: 100%;
     display: flex;
 }

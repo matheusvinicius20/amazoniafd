@@ -72,4 +72,7 @@ html, body {
     width: 24%;
     height: 50px; 
     margin: 0 auto;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
 }

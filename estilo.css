@@ -1,3 +1,7 @@
+.body{
+	background: red;
+}
+
 .superior {
     border: solid red 1px;
     width: 100%;

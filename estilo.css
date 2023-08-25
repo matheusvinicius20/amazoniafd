@@ -1,0 +1,35 @@
+.superior{
+	border: solid red 1px;
+	width: 100%;
+    height: 50px;
+}
+
+.central{
+	border: solid blue 1px;
+	width: 100%;
+    height: 50px;
+}
+
+.meio{
+	border: solid green 1px;
+	width: 50%;
+    height: 50px;
+	margin: 0 auto;
+	display: flex;
+}
+
+
+.menor{
+	border: solid yellow 1px;
+	width: 24%;
+    height: 50px;
+	margin: 0 auto;
+	
+}
+
+.inferior{
+	border: solid red 1px;
+	width: 100%;
+    height: 50px;
+}
+

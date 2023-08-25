@@ -10,6 +10,7 @@
 	border: solid rgb(247, 1, 255) 1px;
 	width: 20%;
     height: 50px;
+	display: flex;
 
 }
 
@@ -17,6 +18,7 @@
 	border: solid rgb(30, 255, 0) 1px;
 	width: 59%;
     height: 50px;
+	display: flex;
 	margin: 0 auto;
 
 }

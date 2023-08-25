@@ -5,7 +5,7 @@
 }
 
 .logo{
-	background-image: logo.png;
+	background-image: url(logo.png);
 	
 }
 

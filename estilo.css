@@ -12,6 +12,8 @@
     width: 15%;
     height: 100%;
     display: flex;
+	background-size: contain; /* or 'cover' depending on your preference */
+
 }
 
 .titulo {

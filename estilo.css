@@ -1,8 +1,8 @@
 body {
-    background-color: red;
+    background-image: url(logo2.png);
     margin: 0; 
     padding: 0;
-	filter: blur(99px);
+	filter: blur(5px);
 
 }
 

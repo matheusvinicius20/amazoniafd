@@ -13,7 +13,7 @@
 .logo {
     background-image: url(logo.png);
     border: solid rgb(247, 1, 255) 1px;
-    width: 2%;
+    width: 100%;
     height: 100%;
     display: flex;
 	background-size: contain; /* or 'cover' depending on your preference */

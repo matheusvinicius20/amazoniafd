@@ -4,6 +4,11 @@
     height: 50px;
 }
 
+.logo{
+	background: image(logo.png);
+	
+}
+
 .central{
 	border: solid blue 1px;
 	width: 100%;

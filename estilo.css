@@ -10,14 +10,14 @@
     background-image: url(logo.png);
     border: solid rgb(247, 1, 255) 1px;
     width: 20%;
-    height: 5%;
+    height: 100%;
     display: flex;
 }
 
 .titulo {
     border: solid rgb(30, 255, 0) 1px;
     width: 80%; 
-    height: 5%;
+    height: 100%;
     display: flex;
     align-items: center; 
     padding-left: 10px;

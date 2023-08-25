@@ -78,3 +78,25 @@ html, body {
 	font-size: 150%;
 
 }
+
+
+.inferior {
+    border: solid red 1px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+}
+
+.inferior_titulo {
+    font-size: 24px; 
+    text-align: center; 
+}
+
+.Explica {
+    font-size: 18px; 
+    text-align: center; 
+}
+

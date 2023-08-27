@@ -81,7 +81,7 @@ html, body {
 
 
 .inferior {
-    border: solid red 1px;
+    border: solid rgb(255, 255, 255) 1px;
     width: 50%;
     height: 5%;
     display: flex;

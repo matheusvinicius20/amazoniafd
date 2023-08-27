@@ -56,6 +56,10 @@ html, body {
     padding: 2%;
     width: 50%; 
     height: 5%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
 }
 
 .inferior_titulo {

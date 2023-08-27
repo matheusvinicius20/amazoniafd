@@ -2,7 +2,7 @@
 
 Este é um projeto web chamado "Viva La Music", um site informativo sobre diferentes gêneros musicais, incluindo Funk, Pop e Rock. O site oferece informações sobre cada gênero, suas características, história e influência cultural.
 
-![Captura de Tela](screenshot.png)
+![Captura de Tela](Screenshot.png)
 
 ## Conteúdo
 

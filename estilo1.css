@@ -71,7 +71,7 @@ html, body {
     padding: 20px;
     color: #333; /* Cor do texto cinza escuro */
     text-align: center;
-  
+    display: flex;
     justify-content: center; 
     align-items: center; 
     flex-direction: column; 

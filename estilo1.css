@@ -1,10 +1,9 @@
-/* Reset de margens e preenchimento e definição de fonte padrão */
 html, body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Cor de fundo cinza claro */
-    color: #fff; /* Cor do texto branca */
+    background-color: #f0f0f0; 
+    color: #fff; 
 }
 
 /* Estilizando o cabeçalho superior */

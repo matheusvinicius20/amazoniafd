@@ -103,13 +103,13 @@ html, body {
 .iframec {
     width: 50%;
     height: 50%;
-    background-color: bisque;
+    background-color: rgb(221, 221, 221);
     display: flex;
     justify-content: center; 
     align-items: center; 
     flex-direction: column; 
     margin: 0 auto;
-
+    color: rgb(41, 41, 41);
 
 }
 

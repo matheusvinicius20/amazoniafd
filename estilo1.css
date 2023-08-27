@@ -19,8 +19,8 @@ html, body {
     background-image: url(logo.png);
     background-size: contain;
     background-repeat: no-repeat;
-    width: 5%; /* Largura em porcentagem */
-    height: 5%; /* Altura em porcentagem */
+    width: 1%; /* Largura em porcentagem */
+    height: 1%; /* Altura em porcentagem */
 }
 
 .titulo {

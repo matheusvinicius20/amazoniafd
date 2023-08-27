@@ -83,11 +83,13 @@ html, body {
 .inferior {
     border: solid red 1px;
     width: 50%;
-    height: 10%;
+    height: 5%;
     display: flex;
     flex-direction: column; 
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
+
 }
 
 .inferior_titulo {

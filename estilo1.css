@@ -19,13 +19,13 @@ html, body {
     background-image: url(logo.png);
     background-size: contain;
     background-repeat: no-repeat;
-    width: 2%;
+    width: 10%; /* Ajuste o valor de acordo com o tamanho desejado */
     height: 100%;
     display: flex;
     background-size: contain;
     background-repeat: no-repeat;
-
 }
+
 
 .titulo {
     font-size: 24px;

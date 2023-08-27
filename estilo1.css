@@ -7,7 +7,7 @@ html, body {
 }
 
 .superior {
-    background-color: #fa0000; 
+    background-color:  #333; 
     color: #fff; 
     display: flex;
     justify-content: space-between;
@@ -16,8 +16,8 @@ html, body {
 }
 
 .logo {
-    width: 100px; 
-    height: 100px; 
+    width: 10%; 
+    height: 10%; 
     background-image: url('logo.png'); 
     background-size: contain;
     background-repeat: no-repeat;

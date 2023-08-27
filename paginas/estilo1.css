@@ -1,0 +1,103 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; 
+    color: #fff; 
+}
+
+.superior {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    height: 50px; 
+}
+
+
+.logo {
+    width: 10%; 
+    height: 100%; 
+    background-image: url('logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.titulo a{
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.titulo {
+    font-size: 150%;
+}
+
+
+.central {
+    background-color: #fff; 
+    padding: 2%;
+    margin: 2% auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.meio {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menor a{
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.menor {
+    background-color: #333; 
+    flex: 1;
+    text-align: center;
+    padding: 1%;
+    margin: 0.5%;
+    text-decoration: none;
+    color: #fff; 
+}
+
+
+
+.inferior {
+    background-color: #333; 
+    color: #fff; 
+    text-align: center;
+    padding: 2%;
+    width: 50%; 
+    height: 5%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
+    margin: 0 auto;
+
+}
+
+.inferior_titulo {
+    font-size: 24px;
+
+}
+
+.iframec {
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding: 2%;
+    color: #333; 
+    text-align: center;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
+    margin: 0 auto;
+    width: 50%; 
+    height: 400px;
+}

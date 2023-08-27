@@ -51,13 +51,12 @@ html, body {
 }
 
 .central {
-    border: solid blue 1px;
     width: 100%;
     height: 50px;
 }
 
 .meio {
-    border: solid green 1px;
+    border: solid rgb(109, 109, 109) 1px;
     width: 50%;
     height: 50px;
     margin: 0 auto;

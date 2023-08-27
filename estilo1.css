@@ -16,15 +16,13 @@ html, body {
 }
 
 .logo {
-    background-image: url(logo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 10%; /* Ajuste o valor de acordo com o tamanho desejado */
-    height: 100%;
-    display: flex;
+    width: 100px; 
+    height: 100px; 
+    background-image: url('logo.png'); 
     background-size: contain;
     background-repeat: no-repeat;
 }
+
 
 
 .titulo {

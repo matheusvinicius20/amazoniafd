@@ -29,4 +29,4 @@ Este projeto foi desenvolvido como parte de um estudo sobre programação web e 
 1. Clone este repositório em sua máquina local usando `git clone`.
 
 ```bash
-git clone https://github.com/seu-usuario/viva-la-music.git
+git chttps://github.com/Matheuskauanpinto/Viva-La-Music.git

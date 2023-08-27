@@ -6,35 +6,33 @@ html, body {
     color: #fff; 
 }
 
-/* Estilizando o cabeçalho superior */
 .superior {
-    background-color: #333; /* Cor de fundo cinza escuro */
-    color: #fff; /* Cor do texto branca */
+    background-color: #333; 
+    color: #fff; 
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 1%;
 }
 
 .logo {
     background-image: url(logo.png);
     background-size: contain;
     background-repeat: no-repeat;
-    width: 50px; /* Ajuste o tamanho do logotipo conforme necessário */
-    height: 50px; /* Ajuste o tamanho do logotipo conforme necessário */
-
+    width: 5%; /* Largura em porcentagem */
+    height: 5%; /* Altura em porcentagem */
 }
 
 .titulo {
     font-size: 24px;
 }
 
-/* Estilizando a seção central */
+
 .central {
-    background-color: #fff; /* Cor de fundo branca */
-    padding: 20px;
-    margin: 20px auto;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    background-color: #fff; 
+    padding: 2%;
+    margin: 2% auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 
 .meio {
@@ -43,38 +41,37 @@ html, body {
 }
 
 .menor {
-    background-color: #333; /* Cor de fundo cinza escuro */
-    color: #fff; /* Cor do texto branca */
+    background-color: #333; 
+    color: #fff; 
     flex: 1;
     text-align: center;
-    padding: 10px;
-    margin: 5px;
+    padding: 1%;
+    margin: 0.5%;
 }
 
-/* Estilizando a seção inferior */
 .inferior {
-    background-color: #333; /* Cor de fundo cinza escuro */
-    color: #fff; /* Cor do texto branca */
+    background-color: #333; 
+    color: #fff; 
     text-align: center;
-    padding: 20px;
+    padding: 2%;
 }
 
 .inferior_titulo {
     font-size: 24px;
 }
 
-/* Estilizando o iframe */
 .iframec {
-    background-color: #fff; /* Cor de fundo branca */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
-    margin: 20px auto;
-    padding: 20px;
-    color: #333; /* Cor do texto cinza escuro */
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin: 2% auto;
+    padding: 2%;
+    color: #333; 
     text-align: center;
     display: flex;
     justify-content: center; 
     align-items: center; 
     flex-direction: column; 
     margin: 0 auto;
-
+    width: 50%; 
+    height: 50%;
 }
